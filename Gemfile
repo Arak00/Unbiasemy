@@ -12,6 +12,7 @@ gem 'bootsnap'
 gem 'therubyracer'
 gem 'less-rails'
 gem 'twitter-bootstrap-rails'
+gem 'bootstrap-sass'
 
 
 group :development, :test do
