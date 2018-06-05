@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'rails'
+gem 'bootstrap-sass'
 gem 'bcrypt'
 gem 'puma'
 gem 'sass-rails'
@@ -13,7 +14,7 @@ gem 'bootsnap'
 gem 'therubyracer'
 gem 'less-rails'
 gem 'twitter-bootstrap-rails'
-gem 'bootstrap-sass'
+
 
 
 group :development, :test do
